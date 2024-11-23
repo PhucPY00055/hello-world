@@ -20,6 +20,20 @@
               <a class="nav-link" href="/lab2bai234">Lab2 bài2,3,4</a></li>
               <li class="nav-item">
                 <a class="nav-link" href="/lab3bai12">Lab3 bài12</a></li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/lab5bai1">Lab5 bài1</a></li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/lab5bai2">Lab5 bài2</a></li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/lab5bai3">Lab5 bài3</a></li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="/lab6bai1">Lab6 bài1</a></li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="/lab6bai2">Lab6 bài2</a></li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="/lab6bai3">Lab6 bài3</a></li>
+                            <li class="nav-item">
+                              <a class="nav-link" href="/lab6bai4">Lab6 bài4</a></li>
             
 
 
