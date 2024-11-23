@@ -27,6 +27,8 @@
                     <li class="nav-item">
                       <a class="nav-link" href="/lab5bai3">Lab5 bài3</a></li>
                       <li class="nav-item">
+                        <a class="nav-link" href="/lab5bai4">Lab5 bài4</a></li>
+                      <li class="nav-item">
                         <a class="nav-link" href="/lab6bai1">Lab6 bài1</a></li>
                         <li class="nav-item">
                           <a class="nav-link" href="/lab6bai2">Lab6 bài2</a></li>
